@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EduHuan.backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\controllers\\conjuntocalificacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\controllers\\conjuntocalificacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\controllers\\calificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\controllers\\calificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\dtos\\calificacionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\dtos\\calificacionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\repositories\\entities\\calificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\repositories\\entities\\calificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\repositories\\entities\\conjuntocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\repositories\\entities\\conjuntocalificaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\repositories\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\repositories\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\dtos\\conjuntocalificacionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\dtos\\conjuntocalificacionesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\repositories\\configurations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\repositories\\configurations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|d:\\eduhuan.backend\\eduhuan.backend\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED691C-0CE5-4AD5-896D-660404E54ECC}|EduHuan.backend\\EduHuan.backend.csproj|solutionrelative:eduhuan.backend\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EduHuan.backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAAMgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:21:19.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Program.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Program.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Program.cs",
+              "RelativeToolTip": "EduHuan.backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:29:48.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calificaciones.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\Entities\\Calificaciones.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Repositories\\Entities\\Calificaciones.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\Entities\\Calificaciones.cs",
+              "RelativeToolTip": "EduHuan.backend\\Repositories\\Entities\\Calificaciones.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:28:58.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Repositories\\Entities\\Producto.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\Entities\\Producto.cs",
+              "RelativeToolTip": "EduHuan.backend\\Repositories\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:28:53.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Repositories\\AppDbContext.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "EduHuan.backend\\Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wCgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:24:45.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConjuntoCalificacionesDTO.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\DTOs\\ConjuntoCalificacionesDTO.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\DTOs\\ConjuntoCalificacionesDTO.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\DTOs\\ConjuntoCalificacionesDTO.cs",
+              "RelativeToolTip": "EduHuan.backend\\DTOs\\ConjuntoCalificacionesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:19:52.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalificacionesDTO.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\DTOs\\CalificacionesDTO.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\DTOs\\CalificacionesDTO.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\DTOs\\CalificacionesDTO.cs",
+              "RelativeToolTip": "EduHuan.backend\\DTOs\\CalificacionesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:19:48.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "EduHuan.backend\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:43:12.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "EduHuan.backend\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:42:53.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\Configurations\\Configuration.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Repositories\\Configurations\\Configuration.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\Configurations\\Configuration.cs",
+              "RelativeToolTip": "EduHuan.backend\\Repositories\\Configurations\\Configuration.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:41:33.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConjuntoCalificaciones.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\Entities\\ConjuntoCalificaciones.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Repositories\\Entities\\ConjuntoCalificaciones.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Repositories\\Entities\\ConjuntoCalificaciones.cs",
+              "RelativeToolTip": "EduHuan.backend\\Repositories\\Entities\\ConjuntoCalificaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:26:03.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalificacionController.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Controllers\\CalificacionController.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Controllers\\CalificacionController.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Controllers\\CalificacionController.cs",
+              "RelativeToolTip": "EduHuan.backend\\Controllers\\CalificacionController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:25:31.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConjuntoCalificacionesController.cs",
+              "DocumentMoniker": "D:\\EduHuan.backend\\EduHuan.backend\\Controllers\\ConjuntoCalificacionesController.cs",
+              "RelativeDocumentMoniker": "EduHuan.backend\\Controllers\\ConjuntoCalificacionesController.cs",
+              "ToolTip": "D:\\EduHuan.backend\\EduHuan.backend\\Controllers\\ConjuntoCalificacionesController.cs",
+              "RelativeToolTip": "EduHuan.backend\\Controllers\\ConjuntoCalificacionesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:25:19.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

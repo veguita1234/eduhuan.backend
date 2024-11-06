@@ -1,0 +1,6 @@
+@EduHuan.backend_HostAddress = http://localhost:5221
+
+GET {{EduHuan.backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
